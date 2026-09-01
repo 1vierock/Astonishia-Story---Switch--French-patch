@@ -41,13 +41,23 @@ Si vous appréciez mes projets de traduction et souhaitez soutenir mon travail :
 ## Captures d'écran
 
 <p align="center">
-  <img src="scrennshot/1.png" width="45%">
-  <img src="scrennshot/2.png" width="45%">
+  <img src="scrennshot/1.png" width="50%">
+  <img src="scrennshot/2.png" width="50%">
 </p>
 
 <p align="center">
-  <img src="scrennshot/3.png" width="45%">
-  <img src="scrennshot/4.png" width="45%">
+  <img src="scrennshot/3.png" width="50%">
+  <img src="scrennshot/4.png" width="50%">
+</p>
+
+<p align="center">
+  <img src="scrennshot/5.png" width="50%">
+  <img src="scrennshot/6.png" width="50%">
+</p>
+
+<p align="center">
+  <img src="scrennshot/7.png" width="50%">
+  <img src="scrennshot/8.png" width="50%">
 </p>
 
 ## Crédits
