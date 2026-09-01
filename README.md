@@ -6,10 +6,10 @@ Projet de traduction française de **Astonishia Story** sur Nintendo Switch.
 
 ## État du projet
 
-* 🟢 Traduction : 40 %
+* 🟢 Traduction : 90 %
 * 🟡 Hack / Hacking : 100 %
-* 🟢 Graphismes : 10 %
-* 🔴 Tests : Pas encore commencés.
+* 🟢 Graphismes : 50 %
+* 🔴 Tests : 2h de jeu .
 
 ## À propos
 
@@ -56,7 +56,7 @@ Si vous appréciez mes projets de traduction et souhaitez soutenir mon travail :
 
 ## Changelog
 
-### v0.1
+### v1.0
 
 * Création du projet
 * Traduction en cours
